@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+@import "./assets/css/nav.css";
+
+.font-heading {
+  font-family: 'Poppins', 'Segoe UI Emoji', 'Apple Color Emoji', sans-serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #F2E9E1;
+}
+
+.flower-figure {
+  margin: 0;
+  padding: 8px;             
+  background: rgb(255, 243, 131);
+  border-radius: 12px;     
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  display: inline-block;      
+}
+
+.flower-photo {
+  width: 100%;     
+  height: auto;     
+  max-height: 100%;  
+  border-radius: 8px; 
+  display: block;
+  object-fit: contain;
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive; /* funish font */
+  font-size: 3rem;                     /* big */
+  color: maroon;                        /* deep red */
+  text-align: center;                   /* optional: center it */
+  margin-bottom: 1rem;
+}
