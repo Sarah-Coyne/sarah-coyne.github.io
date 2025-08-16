@@ -1,5 +1,32 @@
-<div class="col-md-2 p-0">
-    <app-nav-buttons></app-nav-buttons>
-</div>
-
-<p>fun works!</p>
+<div class="container-fluid">
+    <div class="row">
+      <div class="col-md-2 p-0">
+        <app-nav-buttons></app-nav-buttons>
+      </div>
+  
+      <div class="min-h-screen flex flex-col p-4">
+        <!-- Top full-width section -->
+        <div class="bg-purple-200 p-6 rounded-lg shadow text-center">
+          <h1 class="text-4xl md:text-5xl font-bold text-red-800" style="font-family: 'Bitter', serif;">
+            The Fun Stuff!
+          </h1>
+          <h2 class="text-lg md:text-xl text-gray-700 mt-2" style="font-family: 'Bitter', serif;">
+            Write stuff
+          </h2>
+        </div>
+  
+        <!-- Grid directly below top div -->
+        <div class="image-grid">
+            <figure *ngFor="let photo of photos" 
+            class="fun-card" 
+            style="background-color: rgb(255, 213, 251); 
+                   border: 2px solid rgb(218, 117, 255); 
+                   border-radius: 16px;">
+            <img [src]="photo.src" [alt]="photo.caption" />
+            <figcaption>{{ photo.caption }}</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </div>
+  
