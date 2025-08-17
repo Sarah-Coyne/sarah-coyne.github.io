@@ -1,6 +1,6 @@
 # <a href="https://sarah-coyne.github.io">Sarah's Website</a>
 
-Hello! If you’ve found this GitHub repo, I’m guessing it was through Sarah's twin sister, Megan Coyne’s, website. I created this site for her (yes, in exchange for $20). I’m the coder and she’s the food scientist, so it only made sense. I also thought it would be a fun way to exercise my web development skills. Hope you like it!  
+Hello! If you’ve found this GitHub repo, I’m guessing it was through Sarah's twin sister, Megan Coyne’s, website. I set up this github account and created this site for her (yes, in exchange for $20). I’m the coder and she’s the food scientist, so it only made sense. I also thought it would be a fun way to exercise my web development skills. Hope you like it!  
 
 It’s pretty similar to mine, but hey, sometimes a girl can only work with what she knows. I did try something new with Tailwind though, and honestly, I think this website turned out a little better than my own. Just a little. 
 
