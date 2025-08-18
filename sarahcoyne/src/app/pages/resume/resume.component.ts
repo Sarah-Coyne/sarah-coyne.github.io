@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { NavButtonsComponent } from '../pages/nav-bar/nav-bar.component';
+import { NavButtonsComponent } from '../nav-bar/nav-bar.component';
 
 @Component({
   selector: 'app-resume',
