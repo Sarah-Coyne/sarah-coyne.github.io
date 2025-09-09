@@ -11,7 +11,7 @@ import { NavButtonsComponent } from '../nav-bar/nav-bar.component';
 })
 export class FunComponent {
   photos = [
-    { src: 'sarah_running.JPG', caption: 'Racing the mile at Last Chance Invite' },
+    { src: 'assets/images/running.jpg', caption: 'I have been a competitive distance runner for 12 years and my favorite event is the mile!' },
     // { src: 'assets/images/sarah-headshot.jpeg', caption: "Caption" },
     // { src: 'assets/images/sarah-headshot.jpeg', caption: 'Caption' },
     // { src: 'assets/images/waffles.JPG', caption: 'Caption' },
