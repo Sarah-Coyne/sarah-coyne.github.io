@@ -11,7 +11,7 @@ import { NavButtonsComponent } from '../nav-bar/nav-bar.component';
 })
 export class FunComponent {
   photos = [
-    { src: 'assets/images/running.jpg', caption: 'I have been a competitive distance runner for 12 years and my favorite event is the mile!' },
+    { src: 'assets/images/sarah_running.jpeg', caption: 'I have been a competitive distance runner for 12 years and my favorite event is the mile!' },
     { src: 'assets/images/Sisters.jpeg', caption: 'I have two sisters! Anna is my older sister and Megan is my twin, they helped me with this website. They are super awesome :)' },
     { src: 'assets/images/Miel.jpeg', caption: 'Food science people have the best coffee orders, my go to is a Cafe Miel!' },
     { src: 'assets/images/Waffles.jpeg', caption: 'I have a dog named Waffles, she is a huge diva and loves being outside!' },
