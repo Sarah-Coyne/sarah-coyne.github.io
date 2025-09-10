@@ -13,7 +13,7 @@ export class FunComponent {
   photos = [
     { src: 'assets/images/sarah_running.jpeg', caption: 'I have been a competitive distance runner for 12 years and my favorite event is the mile!' },
     { src: 'assets/images/Sisters.jpeg', caption: 'I have two sisters! Anna is my older sister and Megan is my twin, they helped me with this website. They are super awesome :)' },
-    { src: 'assets/images/Miel.jpeg', caption: 'Food science people have the best coffee orders, my go to is a Cafe Miel!' },
+    { src: 'assets/images/Miel.jpeg', caption: 'Food scientist have the best coffee orders, my go to is a Cafe Miel!' },
     { src: 'assets/images/Waffles.jpeg', caption: 'I have a dog named Waffles, she is a huge diva and loves being outside!' },
     { src: 'assets/images/Gameday1.jpeg', caption: 'I am a huge sports fan and love gamedays in East Lansing' },
     { src: 'assets/images/Tomatoes.JPG', caption: 'My family grows lots of beautiful tomatoes every year and they are so delicious!' },
